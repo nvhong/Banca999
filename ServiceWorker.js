@@ -1,9 +1,10 @@
 const cacheName = "DefaultCompany-Banca999WebGL5-1.0";
 const contentToCache = [
-    "Build/WebGL Builds.loader.js",
-    "Build/WebGL Builds.framework.js.gz",
-    "Build/WebGL Builds.data.gz",
-    "Build/WebGL Builds.wasm.gz",
+    "Build/WebManualBuild.loader.js",
+    "Build/WebManualBuild.framework.js.br",
+    "Build/WebManualBuild.worker.js.br",
+    "Build/WebManualBuild.data.br",
+    "Build/WebManualBuild.wasm.br",
     "TemplateData/style.css"
 
 ];
