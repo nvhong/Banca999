@@ -1,4 +1,4 @@
-com.unity.addressables@1.21.21
+com.unity.addressables@1.22.2
 com.unity.burst@1.8.18
 com.unity.collab-proxy@2.5.2
 com.unity.connect.share@4.2.3

@@ -68,6 +68,7 @@
     <type fullname="ExchangeGoldToGem" preserve="all" />
     <type fullname="FishData" preserve="all" />
     <type fullname="FixedTextMeshMaterial" preserve="all" />
+    <type fullname="FixMaterialMissing" preserve="all" />
     <type fullname="FreeItemManager" preserve="all" />
     <type fullname="FreeManager" preserve="all" />
     <type fullname="Function_Controller" preserve="all" />
